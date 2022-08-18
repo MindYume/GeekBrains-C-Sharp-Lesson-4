@@ -1,0 +1,6 @@
+E:\Programming\C#\Lesson4\ArrayLib\bin\Debug\ArrayLib.dll
+E:\Programming\C#\Lesson4\ArrayLib\bin\Debug\ArrayLib.pdb
+E:\Programming\C#\Lesson4\ArrayLib\obj\Debug\ArrayLibrary.csproj.AssemblyReference.cache
+E:\Programming\C#\Lesson4\ArrayLib\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Lesson4\ArrayLib\obj\Debug\ArrayLib.dll
+E:\Programming\C#\Lesson4\ArrayLib\obj\Debug\ArrayLib.pdb

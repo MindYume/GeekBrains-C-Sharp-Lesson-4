@@ -1,0 +1,8 @@
+﻿veryUniqueLogin
+12345
+notRightLogin
+notRightPassword
+root
+GeekBrains
+abcd
+somePassword

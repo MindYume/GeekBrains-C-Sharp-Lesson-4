@@ -1,0 +1,15 @@
+E:\Programming\C#\Lesson4\Homework\bin\Debug\Homework.exe.config
+E:\Programming\C#\Lesson4\Homework\bin\Debug\Homework.exe
+E:\Programming\C#\Lesson4\Homework\bin\Debug\Homework.pdb
+E:\Programming\C#\Lesson4\Homework\bin\Debug\Homework.Utils.dll
+E:\Programming\C#\Lesson4\Homework\bin\Debug\Homework.Utils.pdb
+E:\Programming\C#\Lesson4\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+E:\Programming\C#\Lesson4\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\Lesson4\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Lesson4\Homework\obj\Debug\Homework.csproj.CopyComplete
+E:\Programming\C#\Lesson4\Homework\obj\Debug\Homework.exe
+E:\Programming\C#\Lesson4\Homework\obj\Debug\Homework.pdb
+E:\Programming\C#\Lesson4\Homework\bin\Debug\ArrayLib.dll
+E:\Programming\C#\Lesson4\Homework\bin\Debug\ArrayLib.pdb
+E:\Programming\C#\Lesson4\Homework\bin\Debug\Array.txt
+E:\Programming\C#\Lesson4\Homework\bin\Debug\Accounts.txt
